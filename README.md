@@ -134,5 +134,3 @@ Got suggestions or found a bug? Contributions are welcome!
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-> 📘 *This README summarizes the XGBoost-based customer churn prediction project as implemented in `xgboost_code.ipynb` using the Telco Customer Churn dataset.*
